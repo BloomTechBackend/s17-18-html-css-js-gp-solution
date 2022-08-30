@@ -1,7 +1,4 @@
-# spring-be-starter-gp
-
-- the backend is inside `/api`
-- the frontend starter code is in `/frontend`
+# U17 18 HTML CSS JS AXIOS Solution
 
 ## Introduction - What is this HTML CSS JS Even?
 
